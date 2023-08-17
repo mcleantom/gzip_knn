@@ -1,4 +1,4 @@
-~~Attention~~ Gzip is all you need.
+# ~~Attention~~ Gzip is all you need.
 
 This repository follows along the [youtube video by Sentex](https://www.youtube.com/watch?v=jkdWzvMOPuo). It uses GZip as a feature for a language model.
 
